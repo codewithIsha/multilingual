@@ -55,7 +55,7 @@ The `models/` folder contains trained Transformer-based NMT models:
 
 - **Indic2English/**
 
-## Evaluation — metrics & summary results
+## Evaluation metrics 
 
 **Metrics used:** BLEU, sacreBLEU, ROUGE, METEOR, TER. These complementary metrics provide n-gram precision (BLEU), standardized BLEU (sacreBLEU), recall/overlap (ROUGE), synonym/stemming aware measure (METEOR), and edit-based error rate (TER). 
 
